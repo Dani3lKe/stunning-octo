@@ -1,2 +1,3 @@
+New file for committing.
 New file in git.
 That is right!
